@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'Fy-Button',
+  name: 'FyButton',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
